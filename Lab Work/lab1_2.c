@@ -1,3 +1,8 @@
+/*
+ * Write a c program to truncate and roundoff the number.
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
